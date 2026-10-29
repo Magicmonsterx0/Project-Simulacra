@@ -1,0 +1,4 @@
+repository "Project_Simulacra/Project_Simulacra@13469396414645@cloud"
+  path "/"
+    br "/main"
+    co "/main"
